@@ -13,7 +13,7 @@
   "require_type": "fragment",
   "require_value": "200",
   "coordinate": "-270, -150",
-  "step_count": 155,
+  "step_count": 145,
   "custom_bg": "",
   "stamina_cost": 1,
   "curr_position": 0,
@@ -787,53 +787,53 @@
       ]
     },
     {
-      "position": 126,
+      "position": 136,
       "capture": 70
     },
     {
-      "position": 127,
+      "position": 137,
       "capture": 70
     },
     {
-      "position": 128,
+      "position": 138,
       "capture": 70
     },
     {
-      "position": 129,
+      "position": 139,
       "capture": 70
     },
     {
-      "position": 130,
+      "position": 140,
       "capture": 70,
       "step_type": ["plusstamina"],
       "plus_stamina_value": 4
     },
     {
-      "position": 131,
+      "position": 141,
       "capture": 70,
       "restrict_id": "base",
       "restrict_type": "pack_id"
     },
     {
-      "position": 132,
+      "position": 142,
       "capture": 70,
       "restrict_id": "base",
       "restrict_type": "pack_id"
     },
     {
-      "position": 133,
+      "position": 143,
       "capture": 70,
       "restrict_id": "base",
       "restrict_type": "pack_id"
     },
     {
-      "position": 134,
+      "position": 144,
       "capture": 70,
       "restrict_id": "base",
       "restrict_type": "pack_id"
     },
     {
-      "position": 135,
+      "position": 145,
       "capture": 0,
       "items": [
         {
